@@ -126,4 +126,4 @@ for (let i = 0, len = regionDataPlus.length; i < len; i++) {
     }
   }
 }
-export { provinceAndCityData, regionData, provinceAndCityDataPlus, regionDataPlus, CodeToText, TextToCode }
+export {provinceAndCityData, regionData, provinceAndCityDataPlus, regionDataPlus, CodeToText, TextToCode}
