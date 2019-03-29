@@ -18,6 +18,17 @@ npm run format // 格式化数据
 
 格式化后会生成两份数据：`pca.js` 和 `pcaa.js`，前者仅省市数据，后者包含省市区数据
 
+## 例子
+```
+npm run dev // 查看例子
+```
+
+## 测试
+```
+npm run test // 测试
+```
+
+## 应用
 ```js
 import Data from 'path/to/pcaa';
 
