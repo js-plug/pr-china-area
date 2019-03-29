@@ -1,5 +1,5 @@
 // import REGION_DATA from 'china-area-data'
-import REGION_DATA from '../pcaa'
+import REGION_DATA from './pcaa'
 import cloneDeep from 'lodash/cloneDeep'
 
 // code转汉字大对象

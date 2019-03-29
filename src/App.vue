@@ -69,7 +69,7 @@ import {
   regionDataPlus,
   CodeToText,
   TextToCode
-} from "./formatAreaData";
+} from "../formatAreaData";
 
 export default {
   data() {
